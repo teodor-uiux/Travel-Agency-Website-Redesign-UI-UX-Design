@@ -1,2 +1,51 @@
-# Travel-Agency-Website-Redesign-UI-UX-Design
-Redesigned a travel agency website concept for a Romania-based company, focused on creating a more modern, user-friendly, and visually engaging experience. Improved the layout with cleaner sections, stronger typography, intuitive navigation, and conversion-focused UI elements to enhance readability, trust, and overall browsing experience.
+# Travel Agency Website UI/UX Redesign
+
+Designed a modern travel agency website concept focused on improving navigation, user experience, and visual clarity. Created a cleaner and more engaging interface with stronger typography, better content organization, and conversion-focused sections to improve readability and user trust.
+
+## Goals
+
+- Improve visual hierarchy
+- Create a cleaner browsing experience
+- Increase usability and engagement
+- Build a more modern visual direction
+- Improve conversion-focused structure
+
+## Tools
+
+- Figma
+- Webflow
+- Photoshop
+
+## Key Features
+
+- Responsive layout
+- Modern typography
+- Structured travel sections
+- Conversion-focused UI
+- Mobile-friendly design
+
+## Preview
+
+### Cover Design
+
+![Cover Design](cover-travel-redesign.jpg)
+
+### Hero Section
+
+![Hero Section](hero-section.jpg)
+
+### Before & After
+
+![Before & After](before-after-design.jpg)
+
+### Typography System
+
+![Typography System](fonts-design.jpg)
+
+### Color Palette
+
+![Color Palette](color-design.jpg)
+
+### Laptop View
+
+![Laptop View](laptop-view.jpg)
