@@ -28,7 +28,7 @@ Designed a modern travel agency website concept focused on improving navigation,
 
 ### Cover Design
 
-![Cover Design](cover-travel-redesign.jpg)
+![Cover Design](cover-trevel-redesign.jpg)
 
 ### Hero Section
 
